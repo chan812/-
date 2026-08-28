@@ -12,7 +12,7 @@ from typecast.models import TTSRequest, Output
 # ==================== 여기만 수정 ========================
 # =========================================================
 
-DISCORD_TOKEN = os.environ.get("DISCORD_TOKEN")
+DISCORD_TOKEN = "MTU0MjUyODY3NjQwNTQ0ODcyNQ.GDnknY.njigiAmwd_3cPGJjUC7CnDITz_qhpzT_jqwLB0"
 
 TYPECAST_API_KEY = "__pltFsxhNJKKwxCJ62hs4aqiKVcBRZsU52Mk4ZgsCRLs"
 
