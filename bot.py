@@ -4,7 +4,7 @@ import asyncio
 import os
 import tempfile
 
-from typecast import Typecast
+from typecast.client import Typecast
 from typecast.models import TTSRequest, Output
 
 
